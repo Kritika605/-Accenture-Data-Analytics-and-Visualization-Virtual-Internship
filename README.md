@@ -12,9 +12,9 @@ This is Accenture Data Analytics virtual experience project with Forage. The goa
 
 3- Analysis of top 5 pupular categories content
 
-* Business Problem * : The client has experienced rapid growth in recent years, resulting in a significant increase in their operations. However, they lack the necessary internal resources to manage and handle this scale effectively. 
+** Business Problem ** : The client has experienced rapid growth in recent years, resulting in a significant increase in their operations. However, they lack the necessary internal resources to manage and handle this scale effectively. 
 
-* My Job Role *: I am the data analyst assigned to analyse the client's sample data sets, generate insights, prepare visualizations and prepare a presentation to the client.
+** My Job Role ** : I am the data analyst assigned to analyse the client's sample data sets, generate insights, prepare visualizations and prepare a presentation to the client.
 
 During this experience I have learnt and applied my data analytics skills to:
 1. Project Understanding - Project Requirements and team alignment
